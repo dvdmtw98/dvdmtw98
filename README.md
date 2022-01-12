@@ -1,30 +1,51 @@
 ![Banner](https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/banner.gif)
 
 # Hi there! <img src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/wave.gif" width="30px"> Nice to see you.
-### I'm David Varghese, a passionate Data Engineer from India!
 
-- 🌱 I’m currently learning everything 🤣
-- 💬 Ask me about `UX/UI design`, **JavaScript, TypeScript, CSS, HTML**
-- 👩🏽‍💻 I play in `.html`, .ts, `.js`, `.jsx`, `.css`, `.scss`, `.svg` every day
-- ⚡Fun fact : I am a avid reader and enjoy playing video games
+- 🤵 I'm a Data Engineer working for an IT Company in India
+- 🌱 Currently learning all about Open Source, Cyber Security and Networking
+- 🌍 In my free time I enjoy watching Movies, Anime and reading Books
+- ⚡Fun fact : The Answer to the Ultimate Question of Life, the Universe, and Everything is 42
 
 ### Connect with me:
 
-<p>
-    <a href="https://www.linkedin.com/in/david-varghese/" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a> 
-    <a href="https://david-varghese.medium.com/" target="_blank">
-        <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-    </a>
-    <a href="https://discordapp.com/users/757082677483536404/" target="_blank">
-        <img alt="Discord" src="https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-    </a> 
-    <a href="https://github.com/dvdmtw98" target="_blank">
-        <img alt="Discord" src="https://img.shields.io/badge/GitHub-12100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-    </a>
-</p>
+[![GitHub Badge](https://img.shields.io/badge/dvdmtw98-12100E.svg?&style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/dvdmtw98/)](https://github.com/dvdmtw98/)
+[![Linkedin Badge](https://img.shields.io/badge/david--varghese-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/david-varghese/)](https://www.linkedin.com/in/david-varghese/)
+[![Linkedin Badge](https://img.shields.io/badge/david--varghese-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://david-varghese.medium.com/)](https://david-varghese.medium.com/)
+[![Linkedin Badge](https://img.shields.io/badge/dvdmtw99-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dvdmtw99@gmail.com)](mailto:dvdmtw99@gmail.com)
 
 ### Languages and Tools
 
+![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python)
+![Flask](https://img.shields.io/badge/Flask-181717.svg?style=for-the-badge&logo=flask)
+![Jinja](https://img.shields.io/badge/Jinja-181717.svg?style=for-the-badge&logo=jinja)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript)
+![JQuery](https://img.shields.io/badge/JQuery-0868AC.svg?style=for-the-badge&logo=jquery)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black.svg?style=for-the-badge&logo=bootstrap)
+![Bash](https://img.shields.io/badge/Bash-181717.svg?style=for-the-badge&logo=gnubash)
+![CSharp](https://img.shields.io/badge/C%20Sharp-682876.svg?style=for-the-badge&logo=csharp)
+![LaTeX](https://img.shields.io/badge/LaTeX-181717.svg?style=for-the-badge&logo=latex)
+![Markdown](https://img.shields.io/badge/Markdown-181717.svg?style=for-the-badge&logo=markdown)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black.svg?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-181717.svg?style=for-the-badge&logo=mysql)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-181717.svg?style=for-the-badge&logo=microsoftsqlserver)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E.svg?style=for-the-badge&logo=microsoft-azure)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visualstudiocode)
+![PowerBI](https://img.shields.io/badge/PowerBI-181717.svg?style=for-the-badge&logo=powerbi)
+![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-181717.svg?style=for-the-badge&logo=windowsterminal)
+![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-26235B.svg?style=for-the-badge&logo=apachehadoop)
+![Hive](https://img.shields.io/badge/Apache%20Hive-181717.svg?style=for-the-badge&logo=apachehive)
+![Spark](https://img.shields.io/badge/Apache%20Spark-181717.svg?style=for-the-badge&logo=apachespark)
+![Obsidian](https://img.shields.io/badge/Obsidian-3d354b.svg?style=for-the-badge&logo=obsidian)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-092c59.svg?style=for-the-badge&logo=virtualbox)
+
+---
+
+<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=dvdmtw98.dvdmtw98&style=for-the-badge&color=1D70B8">
+<a>
