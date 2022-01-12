@@ -1,20 +1,20 @@
 ![Banner](https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/banner.gif)
 
-# Hi there! <img src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/wave.gif" width="30px"> Nice to see you.
+# Hi there! <img src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/wave.gif" width="30px"> Welcome to my page.
 
-- 🤵 I'm a Data Engineer working for an IT Company in India
+- 🤵 I'm a Data Engineer/Software Developer working for an IT Company in India
 - 🌱 Currently learning all about Open Source, Cyber Security and Networking
 - 🌍 In my free time I enjoy watching Movies, Anime and reading Books
-- ⚡Fun fact : The Answer to the Ultimate Question of Life, the Universe, and Everything is 42
+- ⚡Fun fact : The Answer to the Ultimate Question of Life, the Universe, and Everything is [42](https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy)
 
-### Connect with me:
+### 🔍 Connect with me:
 
 [![GitHub Badge](https://img.shields.io/badge/dvdmtw98-12100E.svg?&style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/dvdmtw98/)](https://github.com/dvdmtw98/)
 [![Linkedin Badge](https://img.shields.io/badge/david--varghese-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/david-varghese/)](https://www.linkedin.com/in/david-varghese/)
 [![Linkedin Badge](https://img.shields.io/badge/david--varghese-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://david-varghese.medium.com/)](https://david-varghese.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/dvdmtw99-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dvdmtw99@gmail.com)](mailto:dvdmtw99@gmail.com)
 
-### Languages and Tools
+### ⚒️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python)
 ![Flask](https://img.shields.io/badge/Flask-181717.svg?style=for-the-badge&logo=flask)
@@ -38,7 +38,7 @@
 ![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-181717.svg?style=for-the-badge&logo=windowsterminal)
 ![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-26235B.svg?style=for-the-badge&logo=apachehadoop)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-black.svg?style=for-the-badge&logo=apachehadoop)
 ![Hive](https://img.shields.io/badge/Apache%20Hive-181717.svg?style=for-the-badge&logo=apachehive)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-181717.svg?style=for-the-badge&logo=apachespark)
 ![Obsidian](https://img.shields.io/badge/Obsidian-3d354b.svg?style=for-the-badge&logo=obsidian)
@@ -46,6 +46,6 @@
 
 ---
 
-<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=dvdmtw98.dvdmtw98&style=for-the-badge&color=1D70B8">
-<a>
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=dvdmtw98&style=flat-square">
+<div>
