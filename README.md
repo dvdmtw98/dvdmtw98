@@ -30,18 +30,21 @@
 ![Markdown](https://img.shields.io/badge/Markdown-181717.svg?style=for-the-badge&logo=markdown)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black.svg?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-181717.svg?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-black.svg?style=for-the-badge&logo=mysql)
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-181717.svg?style=for-the-badge&logo=microsoftsqlserver)
+
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E.svg?style=for-the-badge&logo=microsoft-azure)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visualstudiocode)
 ![PowerBI](https://img.shields.io/badge/PowerBI-181717.svg?style=for-the-badge&logo=powerbi)
 ![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-181717.svg?style=for-the-badge&logo=windowsterminal)
-![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
+
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-black.svg?style=for-the-badge&logo=apachehadoop)
 ![Hive](https://img.shields.io/badge/Apache%20Hive-181717.svg?style=for-the-badge&logo=apachehive)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-181717.svg?style=for-the-badge&logo=apachespark)
-![Obsidian](https://img.shields.io/badge/Obsidian-3d354b.svg?style=for-the-badge&logo=obsidian)
+
+![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
+![Obsidian](https://img.shields.io/badge/Obsidian-2e293a.svg?style=for-the-badge&logo=obsidian)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-092c59.svg?style=for-the-badge&logo=virtualbox)
 
 ---
