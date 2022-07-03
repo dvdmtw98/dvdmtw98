@@ -1,8 +1,8 @@
 ![Banner](https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/banner.gif)
 
-# Hi there! <img src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/wave.gif" style="width:1.8rem"> Welcome to my page.
+# Hi there! <img src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/wave.gif" width="40"> Welcome to my page.
 
-- 🤵 I'm a Data Engineer/Software Developer working for an IT Company in India
+- 🤵 I'm a Data Engineer/Full Stack Developer working for an IT Company in India
 - 🌱 Currently learning all about Open Source, Cyber Security and Networking
 - 🌍 In my free time I enjoy watching Movies, Anime and reading Books
 - ⚡Fun fact : The Answer to the Ultimate Question of Life, the Universe, and Everything is [42](https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy)
