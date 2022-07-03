@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/banner.gif)
 
-# Hi there! <img src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/wave.gif" width="30px"> Welcome to my page.
+# Hi there! <img src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/wave.gif" style="width:1.8rem"> Welcome to my page.
 
 - 🤵 I'm a Data Engineer/Software Developer working for an IT Company in India
 - 🌱 Currently learning all about Open Source, Cyber Security and Networking
@@ -11,19 +11,17 @@
 
 [![GitHub Badge](https://img.shields.io/badge/dvdmtw98-12100E.svg?&style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/dvdmtw98/)](https://github.com/dvdmtw98/)
 [![Linkedin Badge](https://img.shields.io/badge/david--varghese-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/david-varghese/)](https://www.linkedin.com/in/david-varghese/)
-[![Linkedin Badge](https://img.shields.io/badge/david--varghese-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://david-varghese.medium.com/)](https://david-varghese.medium.com/)
-[![Linkedin Badge](https://img.shields.io/badge/dvdmtw99-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dvdmtw99@gmail.com)](mailto:dvdmtw99@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/david--varghese-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://david-varghese.medium.com/)](https://david-varghese.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/dvdmtw99-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dvdmtw99@gmail.com)](mailto:dvdmtw99@gmail.com)
 
 ### ⚒️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python)
 ![Flask](https://img.shields.io/badge/Flask-181717.svg?style=for-the-badge&logo=flask)
-![Jinja](https://img.shields.io/badge/Jinja-181717.svg?style=for-the-badge&logo=jinja)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript)
 ![JQuery](https://img.shields.io/badge/JQuery-0868AC.svg?style=for-the-badge&logo=jquery)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black.svg?style=for-the-badge&logo=bootstrap)
 ![Bash](https://img.shields.io/badge/Bash-181717.svg?style=for-the-badge&logo=gnubash)
 ![CSharp](https://img.shields.io/badge/C%20Sharp-682876.svg?style=for-the-badge&logo=csharp)
 ![LaTeX](https://img.shields.io/badge/LaTeX-181717.svg?style=for-the-badge&logo=latex)
@@ -35,7 +33,6 @@
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E.svg?style=for-the-badge&logo=microsoft-azure)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visualstudiocode)
-![PowerBI](https://img.shields.io/badge/PowerBI-181717.svg?style=for-the-badge&logo=powerbi)
 ![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-181717.svg?style=for-the-badge&logo=windowsterminal)
 
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-black.svg?style=for-the-badge&logo=apachehadoop)
