@@ -24,10 +24,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black.svg?style=for-the-badge&logo=postgresql)
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E.svg?style=for-the-badge&logo=microsoft-azure)
-![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visualstudiocode)
-![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-181717.svg?style=for-the-badge&logo=windowsterminal)
 ![PySpark](https://img.shields.io/badge/Apache%20Spark-181717.svg?style=for-the-badge&logo=apachespark)
 
+![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visualstudiocode)
+![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-181717.svg?style=for-the-badge&logo=windowsterminal)
 ![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
 ![Obsidian](https://img.shields.io/badge/Obsidian-2e293a.svg?style=for-the-badge&logo=obsidian)
@@ -41,8 +41,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/david--varghese-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/david-varghese/)](https://www.linkedin.com/in/david-varghese/)
 [![Medium Badge](https://img.shields.io/badge/david--varghese-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://david-varghese.medium.com/)](https://david-varghese.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/dvdmtw99-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dvdmtw99@gmail.com)](mailto:dvdmtw99@gmail.com)
-
----
 
 <br>
 
