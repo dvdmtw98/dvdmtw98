@@ -35,16 +35,13 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-181717.svg?style=for-the-badge&logo=gnubash)
 ![Markdown](https://img.shields.io/badge/Markdown-181717.svg?style=for-the-badge&logo=markdown)
-
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-181717.svg?style=for-the-badge&logo=microsoftsqlserver)
 ![MySQL](https://img.shields.io/badge/-MySQL-black.svg?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black.svg?style=for-the-badge&logo=postgresql)
-
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E.svg?style=for-the-badge&logo=microsoft-azure)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visualstudiocode)
 ![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-181717.svg?style=for-the-badge&logo=windowsterminal)
 ![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=git)
