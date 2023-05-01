@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <!-- https://leviarista.github.io/github-profile-header-generator/ -->
 <div align='center'>
-  <img src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/github-header.png" width="840" height="120>
+  <img src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/github-header.png" width="840" height="140>
 <div>
 
 <!-- Typewriter Introduction Image -->
