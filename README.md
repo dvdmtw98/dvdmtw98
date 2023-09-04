@@ -7,7 +7,7 @@
 <!-- Typewriter Introduction Image -->
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=20BFF2&center=true&vCenter=true&width=760&height=70&lines=David+Varghese;He%2FHim;Software+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&center=true&vCenter=true&width=700&height=70&lines=David+Varghese;Cyber+Security+Student" alt="Typing SVG" /></a>
 </div>
 
 <!-- Page Vist Counter -->
@@ -18,10 +18,11 @@
 
 ## // About me
 
-- 🌱 Interested in learning about Cloud, Networking and Information Security
+- 🏫 I am currently working towards my Masters degree in Cyber Security
+- 🌱 Interested in learning about Cyber Security, Programming, Cloud and Networking
 - 🌍 In my free time I enjoy watching movies, reading books and learning about different cultures
-- ⚡ I like to write articles on various technology-related topics which can be on [Source Code](https://blog.davidvarghese.dev) and [Medium](https://medium.com/@david-varghese)
-- 📝 Additionally, I also have a site [Digital Archive](https://notes.davidvarghese.dev) which houses notes and cheatsheets on various topics
+- 📝 I like to write articles on various technology-related topics which can be on [Source Code](https://blog.davidvarghese.dev) and [Medium](https://medium.com/@david-varghese)
+- 📒 Additionally, I also have a site [Digital Archive](https://notes.davidvarghese.dev) which houses notes and cheatsheets on various topics
 
 ## // Quote of the day
 
