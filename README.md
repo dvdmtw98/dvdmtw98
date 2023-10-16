@@ -38,6 +38,12 @@
 
 ![Tools & Technology](https://skillicons.dev/icons?i=azure,vscode,docker,kubernetes,git,github,githubactions,linux,netlify)
 
+## // Latest Blog Posts
+
+<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## // Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/david--varghese-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/david-varghese/)](https://www.linkedin.com/in/david-varghese/)
