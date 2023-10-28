@@ -42,11 +42,11 @@
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert Python Script to an Executable &lpar;.exe&rpar;](https://blog.davidvarghese.com/posts/convert-python-script-to-a-executable/)
-- [TryHackMe - Snapped Phish-ing Line](https://blog.davidvarghese.com/posts/tryhackme-snapped-phishing-line/)
-- [TryHackMe - Agent Sudo](https://blog.davidvarghese.com/posts/tryhackme-agent-sudo/)
-- [VulnHub - Kioptrix: Level 3 &lpar;1.2&rpar; &lpar;#3&rpar;](https://blog.davidvarghese.com/posts/vulnhub-kioptrix-level-3/)
-- [VulnHub - Kioptrix: Level 2 &lpar;1.1&rpar; &lpar;#2&rpar;](https://blog.davidvarghese.com/posts/vulnhub-kioptrix-level-2/)
+- [How to Convert Python Script to an Executable &lpar;.exe&rpar;](https://blog.davidvarghese.dev/posts/convert-python-script-to-a-executable/)
+- [TryHackMe - Snapped Phish-ing Line](https://blog.davidvarghese.dev/posts/tryhackme-snapped-phishing-line/)
+- [TryHackMe - Agent Sudo](https://blog.davidvarghese.dev/posts/tryhackme-agent-sudo/)
+- [VulnHub - Kioptrix: Level 3 &lpar;1.2&rpar; &lpar;#3&rpar;](https://blog.davidvarghese.dev/posts/vulnhub-kioptrix-level-3/)
+- [VulnHub - Kioptrix: Level 2 &lpar;1.1&rpar; &lpar;#2&rpar;](https://blog.davidvarghese.dev/posts/vulnhub-kioptrix-level-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## // Connect with me
