@@ -42,11 +42,11 @@
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe - Advent of Cyber 2023 &lpar;Day 13 - 16&rpar;](https://blog.davidvarghese.dev/posts/tryhackme-aoc-2023-day-13-16/)
+- [TryHackMe - Advent of Cyber 2023 &lpar;Day 9 - 12&rpar;](https://blog.davidvarghese.dev/posts/tryhackme-aoc-2023-day-9-12/)
+- [TryHackMe - Advent of Cyber 2023 &lpar;Day 5 - 8&rpar;](https://blog.davidvarghese.dev/posts/tryhackme-aoc-2023-day-5-8/)
+- [TryHackMe - Advent of Cyber 2023 &lpar;Day 1 - 4&rpar;](https://blog.davidvarghese.dev/posts/tryhackme-aoc-2023-day-1-4/)
 - [Traceroute: Explained](https://blog.davidvarghese.dev/posts/traceroute-explained/)
-- [How to Convert Python Script to an Executable &lpar;.exe&rpar;](https://blog.davidvarghese.dev/posts/convert-python-script-to-a-executable/)
-- [TryHackMe - Snapped Phish-ing Line](https://blog.davidvarghese.dev/posts/tryhackme-snapped-phishing-line/)
-- [TryHackMe - Agent Sudo](https://blog.davidvarghese.dev/posts/tryhackme-agent-sudo/)
-- [VulnHub - Kioptrix: Level 3 &lpar;1.2&rpar; &lpar;#3&rpar;](https://blog.davidvarghese.dev/posts/vulnhub-kioptrix-level-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## // Connect with me
