@@ -42,11 +42,11 @@
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe - Advent of Cyber 2023 &lpar;Day 17 - 20&rpar;](https://blog.davidvarghese.dev/posts/tryhackme-aoc-2023-day-17-20/)
 - [TryHackMe - Advent of Cyber 2023 &lpar;Day 13 - 16&rpar;](https://blog.davidvarghese.dev/posts/tryhackme-aoc-2023-day-13-16/)
 - [TryHackMe - Advent of Cyber 2023 &lpar;Day 9 - 12&rpar;](https://blog.davidvarghese.dev/posts/tryhackme-aoc-2023-day-9-12/)
 - [TryHackMe - Advent of Cyber 2023 &lpar;Day 5 - 8&rpar;](https://blog.davidvarghese.dev/posts/tryhackme-aoc-2023-day-5-8/)
 - [TryHackMe - Advent of Cyber 2023 &lpar;Day 1 - 4&rpar;](https://blog.davidvarghese.dev/posts/tryhackme-aoc-2023-day-1-4/)
-- [Traceroute: Explained](https://blog.davidvarghese.dev/posts/traceroute-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ## // Connect with me
