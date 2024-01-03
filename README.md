@@ -42,11 +42,11 @@
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [Building a Virtual Security Home Lab: Part 2 - pfSense Setup &amp; Configuration](https://blog.davidvarghese.dev/posts/building-home-lab-part-2/)
 - [Building a Virtual Security Home Lab: Part 1 - Network Topology](https://blog.davidvarghese.dev/posts/building-home-lab-part-1/)
 - [TryHackMe - Advent of Cyber 2023 &lpar;Day 21 - 24&rpar;](https://blog.davidvarghese.dev/posts/tryhackme-aoc-2023-day-21-24/)
 - [TryHackMe - Advent of Cyber 2023 &lpar;Day 17 - 20&rpar;](https://blog.davidvarghese.dev/posts/tryhackme-aoc-2023-day-17-20/)
 - [TryHackMe - Advent of Cyber 2023 &lpar;Day 13 - 16&rpar;](https://blog.davidvarghese.dev/posts/tryhackme-aoc-2023-day-13-16/)
-- [TryHackMe - Advent of Cyber 2023 &lpar;Day 9 - 12&rpar;](https://blog.davidvarghese.dev/posts/tryhackme-aoc-2023-day-9-12/)
 <!-- BLOG-POST-LIST:END -->
 
 ## // Connect with me
