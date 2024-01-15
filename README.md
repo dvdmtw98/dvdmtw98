@@ -42,11 +42,11 @@
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [Building a Virtual Security Home Lab: Part 6 - Active Directory Lab Setup - Part 1](https://blog.davidvarghese.dev/posts/building-home-lab-part-6/)
 - [Building a Virtual Security Home Lab: Part 5 - Cyber Range Setup](https://blog.davidvarghese.dev/posts/building-home-lab-part-5/)
 - [Building a Virtual Security Home Lab: Part 4 - pfSense Firewall Configuration](https://blog.davidvarghese.dev/posts/building-home-lab-part-4/)
 - [Building a Virtual Security Home Lab: Part 3 - Kali Linux Setup](https://blog.davidvarghese.dev/posts/building-home-lab-part-3/)
 - [Building a Virtual Security Home Lab: Part 2 - pfSense Setup &amp; Configuration](https://blog.davidvarghese.dev/posts/building-home-lab-part-2/)
-- [Building a Virtual Security Home Lab: Part 1 - Network Topology](https://blog.davidvarghese.dev/posts/building-home-lab-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## // Connect with me
