@@ -42,11 +42,11 @@
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [Building a Virtual Security Home Lab: Part 10 - Splunk Setup &amp; Configuration](https://blog.davidvarghese.dev/posts/building-home-lab-part-10/)
 - [Building a Virtual Security Home Lab: Part 9 - Tsurugi Linux &lpar;DFIR&rpar; Setup](https://blog.davidvarghese.dev/posts/building-home-lab-part-9/)
 - [Building a Virtual Security Home Lab: Part 8 - Malware Analysis Lab Setup](https://blog.davidvarghese.dev/posts/building-home-lab-part-8/)
 - [Building a Virtual Security Home Lab: Part 7 - Active Directory Lab Setup - Part 2](https://blog.davidvarghese.dev/posts/building-home-lab-part-7/)
 - [Building a Virtual Security Home Lab: Part 6 - Active Directory Lab Setup - Part 1](https://blog.davidvarghese.dev/posts/building-home-lab-part-6/)
-- [Building a Virtual Security Home Lab: Part 5 - Cyber Range Setup](https://blog.davidvarghese.dev/posts/building-home-lab-part-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ## // Connect with me
