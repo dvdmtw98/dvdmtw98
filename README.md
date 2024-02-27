@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <!-- https://leviarista.github.io/github-profile-header-generator/ -->
 <div align='center'>
-  <img src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/github-header.png" width="840" height="140>
+  <img src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/github-header.png" width="800" height="120>
 <div>
 
 <!-- Typewriter Introduction Image -->
@@ -22,7 +22,7 @@
 - 🌱 Interested in learning about Cyber Security, Programming, Cloud and Networking
 - 🌍 In my free time I enjoy watching movies, reading books and learning about different cultures
 - 📝 I like to write articles on various technology-related topics which can be on [Source Code](https://blog.davidvarghese.dev) and [Medium](https://medium.com/@david-varghese)
-- 📒 Additionally, I also have a site [Digital Archive](https://notes.davidvarghese.dev) which houses notes and cheatsheets on various topics
+- 📒 I also have a [Digital Garden](https://notes.davidvarghese.dev) where I store my notes, ideas, insights, and connections I've made throughout my life.
 
 ## // Quote of the day
 
@@ -34,9 +34,9 @@
 ## // Languages and Tools
 
 <!-- https://skillicons.dev/ -->
-![Languages](https://skillicons.dev/icons?i=py,html,css,js,bash,md,bootstrap,jquery,flask)
+![Languages](https://skillicons.dev/icons?i=py,js,c,powershell,bash,docker,kubernetes,git,github)
 
-![Tools & Technology](https://skillicons.dev/icons?i=azure,vscode,docker,kubernetes,git,github,githubactions,linux,netlify)
+![DevOps](https://skillicons.dev/icons?i=azure,vscode,obsidian,netlify,sqlite,postgres,ubuntu,kali,windows)
 
 ## // Latest Blog Posts
 
