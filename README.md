@@ -1,15 +1,19 @@
-<!-- Banner Image -->
-<!-- https://leviarista.github.io/github-profile-header-generator/ -->
-<img align="center" src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/github-header.png" width="600" height="100">
+<div align="center">
+  <!-- Banner Image -->
+  <!-- https://leviarista.github.io/github-profile-header-generator/ -->
+  <img src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/github-header.png" width="600" height="100" alt="Banner Image">
+</div>
 
-<!-- Typewriter Introduction Image -->
-<!-- https://readme-typing-svg.demolab.com/demo/ -->
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&center=true&vCenter=true&width=700&height=70&lines=David+Varghese;Cyber+Security+Student" alt="Typing SVG" />
+<div align="center">
+  <!-- Typewriter Introduction Image -->
+  <!-- https://readme-typing-svg.demolab.com/demo/ -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&center=true&vCenter=true&width=700&height=70&lines=David+Varghese;Cyber+Security+Student" alt="Typing SVG" />
+</div>
 
-<div>
+<div align="center">
   <!-- Page Vist Counter -->
   <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-  <img align="center" src="https://komarev.com/ghpvc/?username=dvdmtw98&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=dvdmtw98&style=flat-square">
 </div>
 
 ## // About me
