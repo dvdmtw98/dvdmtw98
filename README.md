@@ -1,21 +1,19 @@
-<!-- Banner Image -->
-<!-- https://leviarista.github.io/github-profile-header-generator/ -->
-<div align="center">
+<div style="text-align: center;">
+  <!-- Banner Image -->
+  <!-- https://leviarista.github.io/github-profile-header-generator/ -->
   <img src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/github-header.png" width="600" height="100">
-<div>
 
-<!-- Typewriter Introduction Image -->
-<!-- https://readme-typing-svg.demolab.com/demo/ -->
-<div align="center">
+  <!-- Typewriter Introduction Image -->
+  <!-- https://readme-typing-svg.demolab.com/demo/ -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&center=true&vCenter=true&width=700&height=70&lines=David+Varghese;Cyber+Security+Student" alt="Typing SVG" />
   </a>
-</div>
 
-<!-- Page Vist Counter -->
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=dvdmtw98&style=flat-square">
+  <!-- Page Vist Counter -->
+  <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=dvdmtw98&style=flat-square">
+  </div>
 </div>
 
 ## // About me
@@ -30,7 +28,7 @@
 
 <!-- https://github.com/PiyushSuthar/github-readme-quotes -->
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quotes card">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote Card">
 </a>
 
 ## // Languages and Tools
