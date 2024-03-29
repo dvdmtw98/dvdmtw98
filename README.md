@@ -1,10 +1,10 @@
-<div style="text-align: center;">
+<div style="align: center;">
   <!-- Banner Image -->
   <!-- https://leviarista.github.io/github-profile-header-generator/ -->
   <img src="https://raw.githubusercontent.com/dvdmtw98/dvdmtw98/main/assets/github-header.png" width="600" height="100">
 </div>
 
-<div style="text-align: center;">
+<div style="align: center;">
   <!-- Typewriter Introduction Image -->
   <!-- https://readme-typing-svg.demolab.com/demo/ -->
   <a href="https://git.io/typing-svg">
@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<div style="text-align: center;">
+<div style="align: center;">
   <!-- Page Vist Counter -->
   <!-- https://github.com/antonkomarev/github-profile-views-counter -->
   <img src="https://komarev.com/ghpvc/?username=dvdmtw98&style=flat-square">
