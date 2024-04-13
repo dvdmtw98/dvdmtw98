@@ -42,11 +42,11 @@
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [NTFS Filesystem: Alternate Data Stream &lpar;ADS&rpar;](https://blog.davidvarghese.dev/posts/ntfs-alternative-file-streams/)
 - [VulnHub - Kioptrix: Level 5 &lpar;2014&rpar; &lpar;#5&rpar;](https://blog.davidvarghese.dev/posts/vulnhub-kioptrix-level-5/)
 - [VulnHub - Kioptrix: Level 4 &lpar;1.3&rpar; &lpar;#4&rpar;](https://blog.davidvarghese.dev/posts/vulnhub-kioptrix-level-4/)
 - [Character Encoding Explored - Part 2: UTF-16, UTF-8, BOM, Self-Synchronization &amp; More](https://blog.davidvarghese.dev/posts/character-encoding-part-2/)
 - [Character Encoding Explored - Part 1: Character Set, ASCII, Unicode, UTF-32 &amp; More](https://blog.davidvarghese.dev/posts/character-encoding-part-1/)
-- [Building a Virtual Security Home Lab: Part 11 - Transferring Files to Malware Analysis Lab](https://blog.davidvarghese.dev/posts/building-home-lab-part-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ## // Connect with me
