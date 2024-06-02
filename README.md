@@ -42,11 +42,11 @@
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe - Network Services 2](https://blog.davidvarghese.dev/posts/tryhackme-network-services-2/)
 - [TryHackMe - Network Services](https://blog.davidvarghese.dev/posts/tryhackme-network-services/)
 - [TryHackMe - Wonderland](https://blog.davidvarghese.dev/posts/tryhackme-wonderland/)
 - [TryHackMe - Mr. Robot CTF](https://blog.davidvarghese.dev/posts/tryhackme-mr-robot-ctf/)
 - [NTFS Filesystem: Alternate Data Stream &lpar;ADS&rpar;](https://blog.davidvarghese.dev/posts/ntfs-alternative-file-streams/)
-- [VulnHub - Kioptrix: Level 5 &lpar;2014&rpar; &lpar;#5&rpar;](https://blog.davidvarghese.dev/posts/vulnhub-kioptrix-level-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ## // Connect with me
