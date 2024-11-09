@@ -42,11 +42,11 @@
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
-- [Character Encoding Explored - Part 2: UTF-16, UTF-8, BOM, Self-Synchronization &amp; More](https://blog.davidvarghese.dev/posts/character-encoding-part-2/)
-- [Character Encoding Explored - Part 1: Character Set, ASCII, Unicode, UTF-32 &amp; More](https://blog.davidvarghese.dev/posts/character-encoding-part-1/)
-- [Building a Virtual Security Home Lab: Part 11 - Transferring Files to Malware Analysis Lab](https://blog.davidvarghese.dev/posts/building-home-lab-part-11/)
-- [Building a Virtual Security Home Lab: Part 10 - Splunk Setup &amp; Configuration](https://blog.davidvarghese.dev/posts/building-home-lab-part-10/)
-- [Building a Virtual Security Home Lab: Part 9 - Tsurugi Linux &lpar;DFIR&rpar; Setup](https://blog.davidvarghese.dev/posts/building-home-lab-part-9/)
+- [TryHackMe - Network Services 2](https://blog.davidvarghese.dev/posts/tryhackme-network-services-2/)
+- [TryHackMe - Network Services](https://blog.davidvarghese.dev/posts/tryhackme-network-services/)
+- [TryHackMe - Wonderland](https://blog.davidvarghese.dev/posts/tryhackme-wonderland/)
+- [TryHackMe - Mr. Robot CTF](https://blog.davidvarghese.dev/posts/tryhackme-mr-robot-ctf/)
+- [NTFS Filesystem: Alternate Data Stream &lpar;ADS&rpar;](https://blog.davidvarghese.dev/posts/ntfs-alternative-file-streams/)
 <!-- BLOG-POST-LIST:END -->
 
 ## // Connect with me
