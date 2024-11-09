@@ -21,8 +21,8 @@
 - 🏫 I am currently working towards my Masters degree in Cyber Security
 - 🌱 Interested in learning about Cyber Security, Programming, Cloud and Networking
 - 🌍 In my free time I enjoy watching movies, reading books and learning about different cultures
-- 📝 I like to write articles on various technology-related topics which can be on [Source Code](https://blog.davidvarghese.dev) and [Medium](https://medium.com/@david-varghese)
-- 📒 I also have a Digital Garden ([Digital Archive](https://notes.davidvarghese.dev)) where I store my notes, ideas, insights, and connections I've made throughout my life.
+- 📝 I like to write articles on various technology-related topics which can be on [Source Code](https://blog.davidvarghese.net) and [Medium](https://david-varghese.medium.com/)
+- 📒 I also have a Digital Garden ([Digital Archive](https://notes.davidvarghese.net)) where I store my notes, ideas, insights, and connections I've made throughout my life.
 
 ## // Quote of the day
 
