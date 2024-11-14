@@ -42,11 +42,11 @@
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe - SeeTwo](https://blog.davidvarghese.net/posts/tryhackme-seetwo/)
 - [TryHackMe - Network Services 2](https://blog.davidvarghese.net/posts/tryhackme-network-services-2/)
 - [TryHackMe - Network Services](https://blog.davidvarghese.net/posts/tryhackme-network-services/)
 - [TryHackMe - Wonderland](https://blog.davidvarghese.net/posts/tryhackme-wonderland/)
 - [TryHackMe - Mr. Robot CTF](https://blog.davidvarghese.net/posts/tryhackme-mr-robot-ctf/)
-- [NTFS Filesystem: Alternate Data Stream &lpar;ADS&rpar;](https://blog.davidvarghese.net/posts/ntfs-alternative-file-streams/)
 <!-- BLOG-POST-LIST:END -->
 
 ## // Connect with me
