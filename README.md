@@ -18,11 +18,11 @@
 
 ## // About me
 
-- 🏫 I am currently working towards my Masters degree in Cyber Security
-- 🌱 Interested in learning about Cyber Security, Programming, Cloud and Networking
-- 🌍 In my free time I enjoy watching movies, reading books and learning about different cultures
-- 📝 I like to write articles on various technology-related topics which can be on [Source Code](https://blog.davidvarghese.net) and [Medium](https://david-varghese.medium.com/)
-- 📒 I also have a Digital Garden ([Digital Archive](https://notes.davidvarghese.net)) where I store my notes, ideas, insights, and connections I've made throughout my life.
+- 🏫 Currently working towards a Masters degree in Cyber Security
+- 🌱 Passionate about Information Security, Programming and Operating Systems
+- 🌍 I enjoy watching movies, reading books and learning about different cultures
+- 📝 I have a blog which can be accessed at [Source Code](https://blog.davidvarghese.net) and [Medium](https://david-varghese.medium.com/)
+- 📒 I also have a [Digital Garden](https://notes.davidvarghese.net) where I store information pertaining to topics that interest me.
 
 ## // Quote of the day
 
@@ -55,5 +55,5 @@
 <!-- Format: https://img.shields.io/badge/text-color.svg?&style=for-the-badge&logo=logo&logoColor=color -->
 [![Linkedin Badge](https://img.shields.io/badge/david--varghese-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-varghese/)
 [![Gmail Badge](https://img.shields.io/badge/dvdmtw99@gmail.com-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dvdmtw99@gmail.com)
-[![Discord](https://img.shields.io/badge/randomizer-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/757082677483536404)
+[![Discord](https://img.shields.io/badge/0xBitShift-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/757082677483536404)
 [![Medium Badge](https://img.shields.io/badge/david--varghese-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@david-varghese)
