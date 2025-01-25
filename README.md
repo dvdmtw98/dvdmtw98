@@ -42,11 +42,11 @@
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe: MBR and GPT Analysis](https://blog.davidvarghese.net/posts/tryhackme-mbr-and-gpt-analysis/)
 - [Sofia Santos: OSINT Exercise #004](https://blog.davidvarghese.net/posts/sofia-santos-osint-exercise-004/)
 - [Sofia Santos: OSINT Exercise #003](https://blog.davidvarghese.net/posts/sofia-santos-osint-exercise-003/)
 - [Sofia Santos: OSINT Exercise #002](https://blog.davidvarghese.net/posts/sofia-santos-osint-exercise-002/)
-- [TryHackMe - SeeTwo](https://blog.davidvarghese.net/posts/tryhackme-seetwo/)
-- [TryHackMe - Network Services 2](https://blog.davidvarghese.net/posts/tryhackme-network-services-2/)
+- [TryHackMe: SeeTwo](https://blog.davidvarghese.net/posts/tryhackme-seetwo/)
 <!-- BLOG-POST-LIST:END -->
 
 ## // Connect with me
