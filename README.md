@@ -42,11 +42,11 @@
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
-- [Symbolic Links Demystified – Part 1: A Deep Dive into Linux Symlinks](https://blog.davidvarghese.net/posts/symbolic-links-linux/)
+- [Windows Links Demystified: Symbolic Links, Hard Links, and Junctions Explored](https://blog.davidvarghese.net/posts/windows-links-demystified/)
+- [Linux Links Demystified: Symbolic Links and Hard Links Explored](https://blog.davidvarghese.net/posts/linux-links-demystified/)
 - [Spanning Tree Protocol &lpar;STP&rpar;: Explained](https://blog.davidvarghese.net/posts/stp-explained/)
 - [TryHackMe: MBR and GPT Analysis](https://blog.davidvarghese.net/posts/tryhackme-mbr-and-gpt-analysis/)
 - [Sofia Santos: OSINT Exercise #004](https://blog.davidvarghese.net/posts/sofia-santos-osint-exercise-004/)
-- [Sofia Santos: OSINT Exercise #003](https://blog.davidvarghese.net/posts/sofia-santos-osint-exercise-003/)
 <!-- BLOG-POST-LIST:END -->
 
 ## // Connect with me
