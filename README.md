@@ -18,10 +18,11 @@
 
 ## // About me
 
-- 🏫 Currently working towards a Masters degree in Cyber Security
-- 🌱 Passionate about Information Security, Programming and Operating Systems
-- 🌍 I enjoy watching movies, reading books and learning about different cultures
-- 📝 I have a blog which can be accessed at [Source Code](https://blog.davidvarghese.net) and [Medium](https://david-varghese.medium.com/)
+- 🛡️ I work as a Security Analyst (SOC), with a focus on Detection & Engineering.
+- 🏫 I hold a Master's degree in Cyber Security, with specialization in Cyber Crime Investigation.
+- 🌱  I am passionate about Information Security, Computer Networks and Operating System (OS) internals.
+- 🌍 I enjoy watching movies, reading books and learning about different cultures.
+- 📝 I have a blog which can be accessed at [Source Code](https://blog.davidvarghese.net) and [Medium](https://david-varghese.medium.com/).
 - 📒 I also have a [Digital Garden](https://notes.davidvarghese.net) where I store information pertaining to topics that interest me.
 
 ## // Quote of the day
@@ -34,9 +35,12 @@
 ## // Languages and Tools
 
 <!-- https://skillicons.dev/ -->
-![Languages](https://skillicons.dev/icons?i=py,js,c,powershell,bash,docker,kubernetes,git,github)
+![Languages](https://skillicons.dev/icons?i=py,powershell,bash,docker,git,github)
 
-![DevOps](https://skillicons.dev/icons?i=azure,vscode,obsidian,netlify,sqlite,postgres,ubuntu,kali,windows)
+![DevOps](https://skillicons.dev/icons?i=azure,vscode,cloudflare,ubuntu,arch,windows)
+
+<!-- https://builder.syvixor.com/ -->
+![Security](https://skills.syvixor.com/api/icons?i=kalilinux,splunk,metasploit)
 
 ## // Latest Blog Posts
 
