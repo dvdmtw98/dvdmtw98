@@ -46,11 +46,11 @@
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Machine Networking Modes Explained](https://blog.davidvarghese.net/posts/virtual-machine-networking-explained/)
 - [OSINT4Fun: Advent of OSINT 2025 &lpar;Day 5 - Day 8&rpar;](https://blog.davidvarghese.net/posts/osint4fun-aoo-day-5-8/)
 - [OSINT4Fun: Advent of OSINT 2025 &lpar;Day 1 - Day 4&rpar;](https://blog.davidvarghese.net/posts/osint4fun-aoo-day-1-4/)
 - [Windows Links Demystified: Symbolic Links, Hard Links, and Junctions Explored](https://blog.davidvarghese.net/posts/windows-links-demystified/)
 - [Linux Links Demystified: Symbolic Links and Hard Links Explored](https://blog.davidvarghese.net/posts/linux-links-demystified/)
-- [Spanning Tree Protocol &lpar;STP&rpar;: Explained](https://blog.davidvarghese.net/posts/stp-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ## // Connect with me
