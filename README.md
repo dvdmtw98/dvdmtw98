@@ -7,7 +7,7 @@
 <div align="center">
   <!-- Typewriter Introduction Image -->
   <!-- https://readme-typing-svg.demolab.com/demo/ -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&center=true&vCenter=true&width=700&height=70&lines=David+Varghese;Cyber+Security+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&center=true&vCenter=true&width=700&height=70&lines=David+Varghese;Cyber+Security+Analyst" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,12 +18,12 @@
 
 ## // About me
 
-- 🛡️ I work as a Security Analyst (SOC), with a focus on Detection & Engineering.
+- 🛡️ I work as a Security Analyst, with a focus on Threat Detection & Security Automation.
 - 🏫 I hold a Master's degree in Cyber Security, with specialization in Cyber Crime Investigation.
 - 🌱  I am passionate about Information Security, Computer Networks and Operating System (OS) internals.
 - 🌍 I enjoy watching movies, reading books and learning about different cultures.
-- 📝 I have a blog which can be accessed at [Source Code](https://blog.davidvarghese.net) and [Medium](https://david-varghese.medium.com/).
-- 📒 I also have a [Digital Garden](https://notes.davidvarghese.net) where I store information pertaining to topics that interest me.
+- 📝 I have a blog which can be accessed at [Source Code](https://blog.davidvarghese.com) and [Medium](https://david-varghese.medium.com/).
+- 📒 I also have a [Digital Garden](https://notes.davidvarghese.com) where I store information pertaining to topics that interest me.
 
 ## // Quote of the day
 
