@@ -18,7 +18,7 @@
 
 ## // About me
 
-- 🛡️ I work as a Security Analyst, with a focus on Threat Detection & Security Automation.
+- 🛡️ I work as a Security Analyst, with a focus on Threat Detection Engineering & Security Automation.
 - 🏫 I hold a Master's degree in Cyber Security, with specialization in Cyber Crime Investigation.
 - 🌱  I am passionate about Information Security, Computer Networks and Operating System (OS) internals.
 - 🌍 I enjoy watching movies, reading books and learning about different cultures.
