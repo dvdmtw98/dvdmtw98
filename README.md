@@ -57,7 +57,7 @@
 
 <!-- https://shields.io/badges/static-badge -->
 <!-- Format: https://img.shields.io/badge/text-color.svg?&style=for-the-badge&logo=logo&logoColor=color -->
-[![Linkedin Badge](https://img.shields.io/badge/david--varghese-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-varghese/)
-[![Gmail Badge](https://img.shields.io/badge/dvdmtw99@gmail.com-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dvdmtw99@gmail.com)
+[![Linkedin](https://img.shields.io/badge/david--varghese-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-varghese/)
+[![Email](https://img.shields.io/badge/contact@davidvarghese.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact@davidvarghese.com)
 [![Discord](https://img.shields.io/badge/0xBitShift-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/757082677483536404)
-[![Medium Badge](https://img.shields.io/badge/david--varghese-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@david-varghese)
+[![Medium](https://img.shields.io/badge/david--varghese-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@david-varghese)
